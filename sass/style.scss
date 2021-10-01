@@ -133,6 +133,7 @@ h1, h3 {
 
 @media (max-width: 375px) {
   .container {
+        margin-top: auto;
         width: 327px;
         display: grid;
         grid-template: auto auto / 327px;
